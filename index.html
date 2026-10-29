@@ -841,7 +841,7 @@ body.is-module-embedded #todayPick{display:none!important;}
         </div>
         <div class="map-events-split">
           <div class="home-map-wrap" id="home-map-embed">
-            <iframe id="worldMapFrame" class="subject-map-frame active" src="world-map.html" title="Interactive world history map" loading="eager" aria-hidden="false"></iframe>
+            <iframe id="worldMapFrame" class="subject-map-frame active" src="world-map.html?v=20261029-favorites" title="Interactive world history map" loading="eager" aria-hidden="false"></iframe>
             <div class="map-overlay map-skeleton" id="mapSkeleton">
               <div class="sk-label" id="skLabel">正在加载地图…</div>
               <div class="sk-bar"></div>
@@ -1001,6 +1001,7 @@ body.is-module-embedded #todayPick{display:none!important;}
 
   function resetHomeEvents() {
     if (!homeEvents) return;
+    mirrorHomeEventsMarkup.previous = null;
     homeEvents.setAttribute('aria-label', '历史事件');
     homeEvents.innerHTML = `<div class="he-empty">点地图上的数字标点，<br>这里会显示那一站的历史事件</div>`;
   }
@@ -1051,6 +1052,15 @@ body.is-module-embedded #todayPick{display:none!important;}
   }
 
   // 读 iframe 里刚渲染好的事件,渲染到右侧面板;没选中事件时显示空状态提示
+  // Compare the canonical iframe markup, not the enhanced mirror containing stars.
+  // Repeated count/route notifications must retain focused and pointer-targeted nodes.
+  function mirrorHomeEventsMarkup(markup) {
+    if (mirrorHomeEventsMarkup.previous === markup) return false;
+    homeEvents.innerHTML = markup;
+    mirrorHomeEventsMarkup.previous = markup;
+    return true;
+  }
+  addEventListener('apwh-favorite-refresh', () => { syncHomeEvents(); renderHostStudyDirectory(); styleEmbeddedMap(); });
   function syncHomeEvents() {
     if (!homeEvents || !worldMapFrame) return;
     let doc;
@@ -1092,12 +1102,13 @@ body.is-module-embedded #todayPick{display:none!important;}
     const emptyHTML = !panelHTML && empty && getComputedStyle(empty).display !== 'none'
       ? `<div class="he-empty">${empty.innerHTML}</div>` : '';
     const focusedStudyTitle = document.activeElement?.matches('#home-events .location-study-title');
-    homeEvents.innerHTML = tabsHTML + panelHTML + emptyHTML;
+    const markupChanged = mirrorHomeEventsMarkup(tabsHTML + panelHTML + emptyHTML);
+    if (!markupChanged && !studyRestore) return null;
     if (focusedStudyTitle) {
       const title = homeEvents.querySelector('.location-study-title');
       if (title) { title.tabIndex=-1; title.focus({ preventScroll:true }); }
     }
-    renderHomeStudyBookends();
+    if (markupChanged) renderHomeStudyBookends();
     if (homeEvents.innerHTML.trim()) {
       homeEvents.scrollTop = causalScroll !== null ? causalScroll : keepCausalScroll ? savedCausalScroll : studyRestore ? studyRestore.scrollTop : 0;
       // 因果链的骨架比右栏高得多(Unit 2→3 有 10 环),每步都复位到顶会把"当前这一环"留在屏幕外。
@@ -1587,7 +1598,7 @@ body.is-module-embedded #todayPick{display:none!important;}
   todayPick.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();todayPick.click();}});
 
 })();
-</script><script type="module" src="module-bridge.mjs"></script><script>
+</script><script type="module" src="module-bridge.mjs?v=20261029-favorites"></script><script>
 document.getElementById('home-events').addEventListener('click', event => {
   if (!event.target.closest('[data-preview-directory]')) return;
   const directory = document.getElementById('hostStudyDirectory');

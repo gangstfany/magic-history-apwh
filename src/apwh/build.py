@@ -74,6 +74,7 @@ world = enhance_maps(world)
 panel_css = (HERE / 'trade-panels.css').read_text()
 shared_panel_style = '<style id="world-panel-styles">' + panel_css + '</style>'
 world = replace_once(world, '</head>', shared_panel_style + '</head>')
+world = replace_once(world, 'window.__mapFilter = {', 'window.__mapFilter = {\n' + (HERE / 'favorites-api.js').read_text())
 (ROOT / 'world-map.html').write_text(world)
 result = (ROOT / 'src/workspace/index.template.html').read_text()
 result = replace_once(result, '</head>', '<style id="world-card-styles">' + css + '</style>' + shared_panel_style + '</head>')
