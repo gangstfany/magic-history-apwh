@@ -1,0 +1,756 @@
+[
+  {
+    "id": "u2_main",
+    "kind": "chain",
+    "units": [
+      "u2"
+    ],
+    "tier": "main",
+    "chip": "Indian Ocean Trade",
+    "entryUnit": "u2",
+    "from": null,
+    "to": {
+      "unit": "u3",
+      "chain": "u3_main",
+      "summary": "继续 Unit 3：考察陆基帝国如何筹措资源和组织统治。这是学习主题的衔接，不把印度洋港口增长写成所有陆基帝国兴起的原因。"
+    },
+    "name": "印度洋贸易如何形成增长循环",
+    "blurb": "以 c. 1200–1450 的 Indian Ocean 为主线：航行条件支持货流，货流带动港口服务与收入，部分收入再投入保护和设施。最后一环回到贸易条件，是增长反馈，不是八件依次发生的事件。",
+    "exam": "练习：选择本链相邻两环，用具体证据解释前一条件怎样影响后一结果，并指出一项限制或其他影响因素。箭头是教师对机制的归纳，不表示结果必然发生。",
+    "stops": [
+      85,
+      85,
+      85,
+      85,
+      2,
+      2,
+      2,
+      2
+    ],
+    "stopEvents": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "labels": [
+      "按 monsoon 安排往返",
+      "船舶把航期变成载货能力",
+      "远方商品进入港口市场",
+      "集散与转运吸引更多交易",
+      "交易形成港口收入",
+      "收入支持海上保护",
+      "保护与服务降低部分交易风险",
+      "较稳的交易条件支持下一轮货流"
+    ],
+    "evidence": [
+      "Indian Ocean 商人利用 monsoon 的季节变化安排航行与返程。风向知识使部分航期更可预期，但天气、船舶和航路风险仍然存在；Kilwa 是该网络的重要港口之一。",
+      "商人把季节性风向知识与船舶、航海经验结合。dhow、junk 等船舶使跨海载货成为可能，海运能够运输相较陆路更笨重的货物；这里不把所有 junk 都说成长达 400 英尺。",
+      "Kilwa 等 Swahili 港口将非洲内地黄金、象牙等商品接入 Indian Ocean，进口中国瓷器与南亚纺织品。不同需求与运输条件共同支持交换，并非蒙古陆路保护直接造成海运兴起。",
+      "商人不仅需要卸货，还需要买家、补给、仓储与转运机会。Kilwa 的贸易与城市财富相联系；港口集散功能能吸引商人，但也受腹地供应和既有航线影响。",
+      "位于 Strait of Malacca 的 Malacca 在 1400 年代发展为重要贸易港。港口对航运和交易收费，把一部分经过当地的商业活动转为统治者可用的收入。",
+      "AMSCO 以 Malacca 的收费与海军为例说明贸易收入和打击 piracy 的联系。只有在统治者作出相关投入时，收入才转化为保护能力；税收本身不保证安全。",
+      "Malacca 的海上保护与港口服务为商人提供较有利的交易条件。保护能减少部分损失风险；收费高低、战争与政策同样会影响商人的选择。",
+      "在市场需求仍在、航路可用的条件下，较稳定的保护和服务有助于维持商人往来。更多货流又可能扩大港口收入，形成“贸易—收入—服务与保护—贸易”的反馈；不是所有港口都持续增长。"
+    ],
+    "links": [
+      "航期较可预期，使商人能安排启航与返程；船舶和航海经验让这些计划转化为实际跨海运输。风向知识与船舶是共同条件，不是谁先发明了谁。",
+      "载货能力使远距离运输某些商品更可行；当沿岸及内地存在需求时，货物便能进入港口交换。运输能力支持交易，不会自动创造所有需求。",
+      "不同来源的商品汇入港口，增加配货、补给与转售需求，从而支持集散和转运服务。",
+      "集散活动使货物和商人集中，也给统治者提供征收关税与其他费用的机会；下一环用 Malacca 说明这一机制，而非 Kilwa 导致 Malacca 兴起。",
+      "港口收入为统治者提供经费。Malacca 将部分资源用于海军和防 piracy，说明财政怎样支持保护。",
+      "海军与港口服务在有效运作时能减少部分损失和不确定性，但不能消除所有风险。",
+      "风险有所降低且需求仍在时，商人更有条件继续交易；这一影响与运费、税费和政治形势共同作用。",
+      "继续 Unit 3：考察陆基帝国如何筹措资源和组织统治。这是学习主题的衔接，不把印度洋港口增长写成所有陆基帝国兴起的原因。"
+    ],
+    "sourceContext": {
+      "authorship": "teacher-synthesis",
+      "edition": "AMSCO World History: Modern（2020版）",
+      "readingGuide": "证据按教材及补充资料整理；连接句为教师解释。地图地点为代表性锚点，顺序可用于因果分析、背景联系或跨地区比较，不表示所有地区依次经历同一过程。",
+      "statisticsNote": ""
+    },
+    "stepNotes": [
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 160–164；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "u2_sub_plague",
+    "kind": "chain",
+    "units": [
+      "u2"
+    ],
+    "tier": "sub",
+    "chip": "Disease & Demography",
+    "name": "交流网络如何放大疫情的影响",
+    "blurb": "人员流动与病媒接触扩大传播机会；高死亡率改变部分地区的劳动供求。传播路径、受灾程度和制度结果需要分别解释。",
+    "exam": "练习：选择本链相邻两环，用具体证据解释前一条件怎样影响后一结果，并指出一项限制或其他影响因素。箭头是教师对机制的归纳，不表示结果必然发生。",
+    "stops": [
+      9,
+      84,
+      23
+    ],
+    "stopEvents": [
+      "",
+      "",
+      ""
+    ],
+    "labels": [
+      "流动增加跨地区接触",
+      "病原传播造成严重人口损失",
+      "人口下降改变劳动议价条件"
+    ],
+    "evidence": [
+      "商旅、军队与船舶连接不同地区，caravanserai 等停留环境可能增加人与动物及病媒的接触。它们提供传播机会，不能据此画出每一段确定的鼠疫路线。",
+      "Black Death 在 1347 年抵达欧洲，随后造成严重人口损失，也影响地中海其他地区。古 DNA 研究提供 1338–1339 年今 Kyrgyzstan 一带的关键证据；不能据此断定所有疫情都沿同一路线传播，或把起源确定为中国南部。",
+      "在欧洲部分地区，人口减少使劳动力相对稀缺，幸存劳动者争取较高报酬或较好条件的空间扩大。地主和统治者也可能限制流动及工资；不同地区的 serfdom 变化并不一致。"
+    ],
+    "links": [
+      "更多跨地区接触为病原扩散提供机会；真正发生传播还取决于病原、宿主、病媒与生态条件。",
+      "大规模死亡减少部分地区的劳动力供给，使劳动供求及谈判条件改变；法律、土地制度与精英反应影响实际结果。",
+      ""
+    ],
+    "sourceContext": {
+      "authorship": "teacher-synthesis",
+      "edition": "AMSCO World History: Modern（2020版）",
+      "readingGuide": "证据按教材及补充资料整理；连接句为教师解释。地图地点为代表性锚点，顺序可用于因果分析、背景联系或跨地区比较，不表示所有地区依次经历同一过程。",
+      "statisticsNote": ""
+    },
+    "stepNotes": [
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 187–189；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "补充核查：2022 年古 DNA 研究定位的是重要早期证据，不能据此确定完整传播路线。https://www.nature.com/articles/s41586-022-04800-3",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 187–189；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 187–189；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "u2_sub_credit",
+    "kind": "chain",
+    "units": [
+      "u2"
+    ],
+    "tier": "sub",
+    "chip": "Commercial Innovations",
+    "name": "远程付款怎样减少携带现钱的负担",
+    "blurb": "围绕一次远程结算拆解需求、工具与作用。flying cash、bills of exchange 与 paper money 功能不同，不是同一种工具依次升级。",
+    "exam": "练习：选择本链相邻两环，用具体证据解释前一条件怎样影响后一结果，并指出一项限制或其他影响因素。箭头是教师对机制的归纳，不表示结果必然发生。",
+    "stops": [
+      1,
+      1,
+      9,
+      9
+    ],
+    "stopEvents": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "labels": [
+      "远程买卖需要异地付款",
+      "存取与汇兑减少沿途携款",
+      "凭证让支付跨越地点或时间",
+      "可兑现的安排便利重复交易"
+    ],
+    "evidence": [
+      "远程贸易需要支付货款；随身携带大量金属货币会增加重量、运输成本和被劫风险。支付问题是商人需要处理的交易成本之一。",
+      "flying cash 起源早于 1200 年，为商人在一地交款、在另一地领取资金提供安排。它是汇兑办法，不等于人人通用的纸币；既有办法在本单元贸易背景下继续发挥作用。",
+      "AMSCO 同时介绍 bills of exchange 与 banking houses。汇票约定支付事项，可便利异地或延期结算；这里比较工具的共同功能，不主张 flying cash 单线演变为欧洲汇票。",
+      "这些工具在参与者接受且支付方有能力履约时，能减少每笔交易都搬运现钱的需要。信誉和兑现能力仍然重要；金属货币、票据与实物支付长期并存，并未实现跨欧亚统一货币。"
+    ],
+    "links": [
+      "携款的成本和风险产生减少现金运输的需求，汇兑是应对这种需求的一种办法。",
+      "汇兑把一部分资金转移改为在不同地点结算；汇票提供另一种支付安排。共同机制是以可识别的支付承诺替代部分现钱搬运，不是工具间的必然演化。",
+      "约定只有被接受并能兑现时才便利交易。因此工具的作用取决于信誉、支付能力和具体安排，不能用打击 piracy 代替对信用风险的解释。",
+      ""
+    ],
+    "sourceContext": {
+      "authorship": "teacher-synthesis",
+      "edition": "AMSCO World History: Modern（2020版）",
+      "readingGuide": "证据按教材及补充资料整理；连接句为教师解释。地图地点为代表性锚点，顺序可用于因果分析、背景联系或跨地区比较，不表示所有地区依次经历同一过程。",
+      "statisticsNote": ""
+    },
+    "stepNotes": [
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.1",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 143–145；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.1",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 143–145；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.1",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 143–145；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.1",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 143–145；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "u2_sub_diaspora",
+    "kind": "chain",
+    "units": [
+      "u2"
+    ],
+    "tier": "sub",
+    "chip": "Merchant Communities",
+    "name": "港口停留如何形成文化交流的社群",
+    "blurb": "从季风航行到长期接触，再到商人社群和文化互动。旅行者记录与女性活动作为读史证据保留，不充当下一环的因果结果。",
+    "exam": "练习：选择本链相邻两环，用具体证据解释前一条件怎样影响后一结果，并指出一项限制或其他影响因素。箭头是教师对机制的归纳，不表示结果必然发生。",
+    "stops": [
+      85,
+      85,
+      85,
+      85
+    ],
+    "stopEvents": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "labels": [
+      "季节航行带来港口停留",
+      "重复往来形成长期人际联系",
+      "定居与通婚延续商人社群",
+      "日常交往支持选择性的文化传播"
+    ],
+    "evidence": [
+      "Indian Ocean 航行常须等待合适的 monsoon。商人在 Kilwa 等港口停留，获得接触当地居民、市场与习俗的机会；并非所有商人都会移居。",
+      "持续交易与反复停留使部分商人与当地交易者形成较长期的关系。Swahili 海岸的商贸联系为外来商人与当地居民交往提供环境。",
+      "部分商人定居、通婚并建立家庭与宗教联系，形成 diaspora communities。社群跨代延续需要居民的实际选择，不能把季节停留直接等同永久移民。",
+      "Swahili 以 Bantu 语言为基础，吸收 Arabic 等词汇；沿岸社群也参与 Islam 的传播与本地化。当地居民与统治者会选择、调整外来实践，宗教和语言并未整齐地被替代。"
+    ],
+    "links": [
+      "港口停留增加接触时间；当往来反复发生时，一部分短期接触能成为持续关系。",
+      "持续关系给定居、通婚与社群形成提供条件，但是否迁居还取决于商机、家庭和当地环境。",
+      "家庭、商业和宗教活动使交流进入日常生活，支持语言借用及信仰传播；结果由外来者与当地居民共同塑造。",
+      ""
+    ],
+    "sourceContext": {
+      "authorship": "teacher-synthesis",
+      "edition": "AMSCO World History: Modern（2020版）",
+      "readingGuide": "证据按教材及补充资料整理；连接句为教师解释。地图地点为代表性锚点，顺序可用于因果分析、背景联系或跨地区比较，不表示所有地区依次经历同一过程。",
+      "statisticsNote": ""
+    },
+    "stepNotes": [
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3 / 2.5",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 161–162、175–184；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3 / 2.5",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 161–162、175–184；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "史料阅读：Ibn Battuta 等旅行者的身份、目的和经历影响其叙述，需要与其他材料对照。女性商人、旅行者及家庭成员的可见度不一；记载少不能证明女性没有活动空间。这是证据分析，不是社群形成后的必然结果。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3 / 2.5",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 161–162、175–184；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.3 / 2.5",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 161–162、175–184；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "u2_sub_environment",
+    "kind": "chain",
+    "units": [
+      "u2"
+    ],
+    "tier": "sub",
+    "chip": "Crop Diffusion",
+    "name": "Champa rice 如何改变农业生产的可能性",
+    "blurb": "聚焦 Champa rice 传入中国后的一条机制，区分作物特性、种植安排、粮食供给和社会影响；不再把不同地区的生态压力与奴役接成必然序列。",
+    "exam": "练习：选择本链相邻两环，用具体证据解释前一条件怎样影响后一结果，并指出一项限制或其他影响因素。箭头是教师对机制的归纳，不表示结果必然发生。",
+    "stops": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "stopEvents": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "labels": [
+      "作物交流增加可采用的品种",
+      "较短生长期拓宽种植安排",
+      "合适条件下增加粮食供给",
+      "更多粮食支持人口与城镇活动"
+    ],
+    "evidence": [
+      "Champa rice 从 Champa（今 Vietnam 中部）传入中国，重要传播早于本单元起点，属于 c. 1200–1450 农业发展的背景。Hangzhou 用于定位中国案例，不表示新品种只在该城采用。",
+      "较早成熟的 Champa rice 提供更多安排播种、收获和复种的可能。作物特性只是条件，实际种植仍取决于水源、劳动力、土壤与农民选择。",
+      "在气候、水利与劳动投入适宜的地区，复种和耕作改进能增加土地一年中的产出。不能写成所有地区都一年两熟，或单靠一个品种就消除粮食短缺。",
+      "粮食供给扩大能支持更多人口和非农业活动。人口及城市增长也受市场、政治和基础设施影响；土地开垦可能增加环境压力，但不能据此推出 Great Zimbabwe 的衰落或奴役制度。"
+    ],
+    "links": [
+      "新品种的传入扩大可选择的作物范围；采用之后，品种特性才可能改变本地耕作安排。",
+      "较短生长期在条件适宜时允许更灵活的复种，配合水利与劳动投入，有助于增加年度粮食产出。",
+      "更多可用粮食能供养人口和城镇劳动者；这是支持条件，人口增长与商业发展也会反过来增加粮食需求。",
+      ""
+    ],
+    "sourceContext": {
+      "authorship": "teacher-synthesis",
+      "edition": "AMSCO World History: Modern（2020版）",
+      "readingGuide": "证据按教材及补充资料整理；连接句为教师解释。地图地点为代表性锚点，顺序可用于因果分析、背景联系或跨地区比较，不表示所有地区依次经历同一过程。",
+      "statisticsNote": ""
+    },
+    "stepNotes": [
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 69、185–187；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 69、185–187；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 69、185–187；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "补充比较：bananas 向非洲传播是另一作物交流案例。Great Zimbabwe 的衰落涉及多重因素；Paes 在 Vijayanagara 的记录属于 1520–1522 年，跨大西洋奴役与殖民劳动应转到 Unit 4 学习，不能作为本链下一环。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.6",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 69、185–187；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "id": "u2_sub_mongol",
+    "kind": "chain",
+    "units": [
+      "u2"
+    ],
+    "tier": "sub",
+    "chip": "Mongol Governance",
+    "name": "蒙古统治如何组织资源与交通",
+    "blurb": "从征服后的治理需求，到利用官员和地方知识，再到征收资源与维持交通。解释部分治理机制，同时保留战争破坏和汗国差异。",
+    "exam": "练习：选择本链相邻两环，用具体证据解释前一条件怎样影响后一结果，并指出一项限制或其他影响因素。箭头是教师对机制的归纳，不表示结果必然发生。",
+    "stops": [
+      8,
+      5,
+      5,
+      9
+    ],
+    "labels": [
+      "征服后仍需管理领地与人口",
+      "征用不同背景的治理人才",
+      "行政与征税把资源纳入统治",
+      "资源投入支持驿传与部分商路"
+    ],
+    "evidence": [
+      "Genghis Khan 于 1206 年统一蒙古诸部，后续征服造成严重破坏。取得军事胜利后，统治者仍须处理人口、税收与通信；Karakorum 在 Ogodei 时期于 1235 年建设为都城。",
+      "蒙古统治者使用不同背景的官员、商人和地方人才。Yuan 的 Dadu（今 Beijing）是治理中心之一；统治办法随汗国、地区和时期变化，不存在全欧亚完全统一的行政制度。",
+      "官员与地方知识帮助统治者管理人口、征取税赋并调配资源。Yuan 在地方制度和蒙古统治安排之间作出调整；财政压力、身份差异和统治冲突仍然存在。",
+      "征集的资源可用于维持驿传、通信与部分交通保护，促进一些陆路联系。战争、征敛与汗国间冲突同样会扰乱交换；“Pax Mongolica”不能理解为无战争或所有商路始终安全。"
+    ],
+    "links": [
+      "军事征服扩大需要管理的领地与人口，产生持续征税、通信和行政的需求；威慑不能替代全部日常治理。",
+      "熟悉文书、财赋和地方情况的人才使行政与资源征取更可操作；任用外来或本地官员本身不保证合法性。",
+      "可调配的资源为驿传、通信与保护提供物质条件；是否投入、能否有效维持，还取决于政局和统治选择。",
+      ""
+    ],
+    "sourceContext": {
+      "authorship": "teacher-synthesis",
+      "edition": "AMSCO World History: Modern（2020版）",
+      "readingGuide": "证据按教材及补充资料整理；连接句为教师解释。地图地点为代表性锚点，顺序可用于因果分析、背景联系或跨地区比较，不表示所有地区依次经历同一过程。",
+      "statisticsNote": ""
+    },
+    "stepNotes": [
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.2",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 149–155；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.2",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 149–155；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "证据与机制分开阅读：教材提供案例，连接解释是教师归纳；地图地点为案例或区域定位，不表示每一环都是一次依次发生的旅程。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.2",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 149–155；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "背景与后续：技术和知识的传播既发生在蒙古统治时期，也可能在其后继续。汗国分裂与衰落各有时间和原因，不能把技术传播归因于帝国崩溃，也不能说后继国家照抄同一模板。",
+          "sources": [
+            {
+              "title": "AP World History: Modern CED（Effective Fall 2026）",
+              "locator": "Unit 2, Topics 2.2",
+              "url": "https://apcentral.collegeboard.org/media/pdf/ap-world-history-modern-course-and-exam-description.pdf"
+            },
+            {
+              "title": "AMSCO World History: Modern（2020版）",
+              "locator": "物理PDF页 149–155；相关主题定位，非逐字引文。"
+            }
+          ]
+        }
+      ]
+    ],
+    "stopEvents": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

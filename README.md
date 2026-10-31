@@ -13,7 +13,7 @@
 
 ```sh
 python3 scripts/build-site.py
-node --test src/apwh/test-*.cjs tests/*.test.mjs
+node --test src/apwh/test-*.cjs tests/*.test.mjs src/workspace/*/*.test.cjs
 python3 -m unittest discover -s src/apwh -p 'test_*.py'
 node src/apwh/verify-content.cjs
 python3 -m http.server 8032 --directory _site --bind 127.0.0.1
@@ -40,3 +40,7 @@ python3 -m http.server 8032 --directory _site --bind 127.0.0.1
 - 首页框架： https://github.com/gangstfany/magic-history-site
 - 登录账号： https://github.com/gangstfany/magic-history-auth
 - 艺术史： https://github.com/gangstfany/magic-history-art
+
+## U1 / U2 学习界面
+
+U1 使用六个地区比较主题，A、B 地区的文字在右侧逐项展开；比较解释通过右侧入口显示在地图浮窗。U2 保留主链与五条补充链，以紧凑条目区分因果支持、共同条件、并行支付办法与反馈，并同步左侧事件配图。运行时资源由 `src/workspace/u1-comparison/`、`u1-integration.js` 和 `u2-visual/` 构建至 `assets/`，直接访问及首页嵌入均使用同一正式入口。图片出处保留在图注及资源记录中，后续可继续补图。

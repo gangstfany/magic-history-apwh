@@ -38,11 +38,13 @@ test('independent review fixes terminology and source anchors without changing g
  assert.doesNotMatch(byId.u1_sub_decentralization.links[1],/欧洲武装/);
  assert.ok(byId.u3_main.stepNotes[5].some(n=>n.sources.some(s=>/234.*235.*236/.test(s.locator||''))));
 });
-test('source remediation preserves every original chain ID, stop and unit association',()=>{
+test('source remediation preserves original geography outside the reviewed U2 content',()=>{
  const snapshot=fs.readFileSync(path.join(__dirname,'source-map-snapshot.html'),'utf8');
  const embedded=snapshot.match(/id="worldMapFrame"[^>]*srcdoc="([^"]*)"/)[1];
  const decoded=embedded.replace(/&#x([0-9a-f]+);/gi,(_,v)=>String.fromCodePoint(parseInt(v,16))).replace(/&#([0-9]+);/g,(_,v)=>String.fromCodePoint(+v)).replace(/&quot;/g,'"').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&amp;/g,'&');
  const original=vm.runInNewContext(decoded.match(/const CHAINS = ([\s\S]*?\n  \]);/)[1]);
  const contract=xs=>JSON.stringify(xs.map(c=>({id:c.id,stops:c.stops,units:c.units})).sort((a,b)=>a.id.localeCompare(b.id)));
- assert.equal(contract(chains),contract(original));
+ assert.equal(contract(chains.filter(c=>!c.units.includes('u2'))),contract(original.filter(c=>!c.units.includes('u2'))));
+ assert.deepEqual(JSON.parse(JSON.stringify(byId.u2_main.stops)),[85,85,85,85,2,2,2,2]);
+ for(const c of chains.filter(c=>c.units.includes('u2'))){assert.equal(c.stops.length,c.labels.length);assert.equal(c.stops.length,c.evidence.length);assert.equal(c.stops.length,c.links.length);assert.ok(c.stopEvents.every(key=>key===''),'rewritten explanations must not open unrelated old events');}
 });

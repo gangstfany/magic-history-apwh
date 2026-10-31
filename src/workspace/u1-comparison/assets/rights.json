@@ -1,0 +1,75 @@
+{
+  "angkor.webp": {
+    "creatorOrInstitution": "Supanut Arunoprayote",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Angkor_Thom_(I).jpg",
+    "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Angkor_Thom_%28I%29.jpg",
+    "localAssetPath": "assets/art-history/u8/ap199-angkor-thom-south-gate.webp",
+    "licenseClass": "cc-by",
+    "licenseName": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "releaseClass": "open",
+    "accessedOn": "2026-10-14",
+    "identityNote": "Actual South Gate of Angkor Thom with face tower and arched passage, not a tower elsewhere or an elephant-side detail. Underlying artwork/architecture is historical (pre-20th-century), dated by the official CED; selected photo/reproduction has the separately recorded file-level grant.",
+    "derivativeNote": "Full downloaded source frame retained; no additional crop, retouching or reconstruction. Wikimedia source thumbnail/original rendered to RGB, proportionally limited to max edge 1280 for review, then WebP quality 90 (1280 x 1024; 580290 bytes). Source-license obligations retained."
+  },
+  "cusco.webp": {
+    "creatorOrInstitution": "Bcasterline / Wikimedia Commons",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Walls_at_Sacsayhuaman.jpg",
+    "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Walls_at_Sacsayhuaman.jpg",
+    "localAssetPath": "assets/art-history/u5/ap159-saqsa-waman-walls.webp",
+    "licenseClass": "public-domain",
+    "licenseName": "Public domain — author release",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Walls_at_Sacsayhuaman.jpg",
+    "releaseClass": "open",
+    "accessedOn": "2026-10-08",
+    "identityNote": "Exact polygonal Inka Walls at Saqsa Waman (Sacsayhuaman), Cusco; Commons identifies Walls at Sacsayhuaman and the Bcasterline public-domain author release.",
+    "derivativeNote": "Preserved original dimensions; converted JPEG to WebP (1874 × 1146); no crop or content edits. Derivative retains source license."
+  },
+  "hangzhou.jpg": {
+    "creatorOrInstitution": "Bob Brooks",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Liuhe_Pagoda.jpg",
+    "licenseName": "Attribution-only permission",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Liuhe_Pagoda.jpg",
+    "derivativeNote": "Original JPEG, unchanged; UI may fit or crop presentation."
+  },
+  "baghdad.jpg": {
+    "creatorOrInstitution": "Mohammed Harith Khalil",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:باحة_المدرسة_المستنصرية.jpg",
+    "licenseName": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "derivativeNote": "Original JPEG, unchanged; UI may fit or crop presentation."
+  },
+  "agriculture.svg": {
+    "creatorOrInstitution": "Magic History · 教学示意",
+    "sourcePageUrl": "docs/event-image-revision.md",
+    "licenseName": "教师编绘，非历史原件",
+    "licenseUrl": "docs/event-image-revision.md"
+  },
+  "examination.jpg": {
+    "creatorOrInstitution": "《观榜图》局部 · 明代，旧传仇英（作者归属存疑）",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Ming-Beamtenpr%C3%BCfungen1.jpg",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "qadi.jpg": {
+    "creatorOrInstitution": "佚名阿拉伯画家 · 1334 · 奥地利国家图书馆",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Arabischer_Maler_um_1335_002.jpg",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "quipu.jpg": {
+    "creatorOrInstitution": "Felipe Guaman Poma de Ayala · 约1615；1936影印本",
+    "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Yupana.jpg",
+    "licenseName": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  },
+  "rice-field-work.jpg": {
+    "creatorOrInstitution": "传程棨 · 13世纪中晚期 · Smithsonian National Museum of Asian Art, F1954.21",
+    "sourcePageUrl": "https://asia-archive.si.edu/object/F1954.21/",
+    "originalFileUrl": "https://ids.si.edu/ids/deliveryService?id=FS-8012_16&max=1600",
+    "licenseName": "Smithsonian 使用条款",
+    "licenseUrl": "https://www.si.edu/termsofuse",
+    "releaseClass": "local-educational-prototype",
+    "derivativeNote": "Museum-provided JPEG, unchanged. Source manifest marks Usage conditions apply; do not treat as an unrestricted CC0 release."
+  }
+}

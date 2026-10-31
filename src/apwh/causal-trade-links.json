@@ -21,125 +21,6 @@
     "reason": "用马里与伊斯兰世界的联系作补充例证；朝觐保留自己的宗教性质。"
   },
   {
-    "chainId": "u2_main",
-    "step": 0,
-    "routeId": "silk_road",
-    "kind": "机制例证",
-    "reason": "在代表性节点中查看运输、政治保护与跨区域传播的联系。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 1,
-    "routeId": "silk_road",
-    "kind": "机制例证",
-    "reason": "在代表性节点中查看运输、政治保护与跨区域传播的联系。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 5,
-    "routeId": "silk_road",
-    "kind": "机制例证",
-    "reason": "在代表性节点中查看运输、政治保护与跨区域传播的联系。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 0,
-    "routeId": "indian_ocean",
-    "kind": "机制例证",
-    "reason": "查看季风航行、港口停留和市场联系怎样支持海上交换。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 2,
-    "routeId": "indian_ocean",
-    "kind": "机制例证",
-    "reason": "沿广州、马六甲、卡利卡特与基尔瓦，查看海运怎样连接不同地区的商品与生产分工。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 3,
-    "routeId": "indian_ocean",
-    "kind": "机制例证",
-    "reason": "查看季风航行、港口停留和市场联系怎样支持海上交换。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 4,
-    "routeId": "indian_ocean",
-    "kind": "机制例证",
-    "reason": "查看季风航行、港口停留和市场联系怎样支持海上交换。"
-  },
-  {
-    "chainId": "u2_main",
-    "step": 6,
-    "routeId": "indian_ocean",
-    "kind": "机制例证",
-    "reason": "查看季风航行、港口停留和市场联系怎样支持海上交换。"
-  },
-  {
-    "chainId": "u2_sub_plague",
-    "step": 0,
-    "routeId": "silk_road",
-    "kind": "传播背景",
-    "reason": "同一套交通与接触网络也可能传播病原；路线不是精确的疫情传播轨迹。"
-  },
-  {
-    "chainId": "u2_sub_plague",
-    "step": 1,
-    "routeId": "silk_road",
-    "kind": "传播背景",
-    "reason": "同一套交通与接触网络也可能传播病原；路线不是精确的疫情传播轨迹。"
-  },
-  {
-    "chainId": "u2_sub_credit",
-    "step": 0,
-    "routeId": "silk_road",
-    "kind": "交易背景",
-    "reason": "对照远程交易的地理跨度，理解结算与契约为什么重要。"
-  },
-  {
-    "chainId": "u2_sub_credit",
-    "step": 2,
-    "routeId": "silk_road",
-    "kind": "交易背景",
-    "reason": "对照远程交易的地理跨度，理解结算与契约为什么重要。"
-  },
-  {
-    "chainId": "u2_sub_diaspora",
-    "step": 0,
-    "routeId": "indian_ocean",
-    "kind": "交流背景",
-    "reason": "港口停留与商人社区为文化接触提供具体场景。"
-  },
-  {
-    "chainId": "u2_sub_diaspora",
-    "step": 1,
-    "routeId": "indian_ocean",
-    "kind": "交流背景",
-    "reason": "港口停留与商人社区为文化接触提供具体场景。"
-  },
-  {
-    "chainId": "u2_sub_environment",
-    "step": 0,
-    "routeId": "indian_ocean",
-    "kind": "交流背景",
-    "reason": "查看海上联系的区域范围；原有环节说明提供作物与劳动的具体证据。"
-  },
-  {
-    "chainId": "u2_sub_environment",
-    "step": 2,
-    "routeId": "indian_ocean",
-    "kind": "交流背景",
-    "reason": "查看海上联系的区域范围；原有环节说明提供作物与劳动的具体证据。"
-  },
-  {
-    "chainId": "u2_sub_environment",
-    "step": 3,
-    "routeId": "indian_ocean",
-    "kind": "交流背景",
-    "reason": "查看海上联系的区域范围；原有环节说明提供作物与劳动的具体证据。"
-  },
-  {
     "chainId": "u4_main",
     "step": 1,
     "routeId": "indian_ocean",
@@ -222,5 +103,131 @@
     "routeId": "atlantic_triangle",
     "kind": "相关网络",
     "reason": "查看跨大西洋网络，结合本环证据理解非洲社会受到的影响。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 0,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 1,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 2,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 3,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 4,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 5,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 6,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_main",
+    "step": 7,
+    "routeId": "indian_ocean",
+    "kind": "机制例证",
+    "reason": "查看 Indian Ocean 的代表性节点；本链解释贸易与港口保护的反馈，不表示逐站旅程。"
+  },
+  {
+    "chainId": "u2_sub_plague",
+    "step": 0,
+    "routeId": "silk_road",
+    "kind": "传播背景",
+    "reason": "路线表示接触网络，不是已确定的鼠疫传播轨迹。"
+  },
+  {
+    "chainId": "u2_sub_plague",
+    "step": 1,
+    "routeId": "silk_road",
+    "kind": "传播背景",
+    "reason": "路线表示接触网络，不是已确定的鼠疫传播轨迹。"
+  },
+  {
+    "chainId": "u2_sub_credit",
+    "step": 0,
+    "routeId": "silk_road",
+    "kind": "交易背景",
+    "reason": "远程交易的区域跨度说明结算需求，不表示金融工具沿单一路线演化。"
+  },
+  {
+    "chainId": "u2_sub_credit",
+    "step": 2,
+    "routeId": "silk_road",
+    "kind": "交易背景",
+    "reason": "远程交易的区域跨度说明结算需求，不表示金融工具沿单一路线演化。"
+  },
+  {
+    "chainId": "u2_sub_credit",
+    "step": 3,
+    "routeId": "silk_road",
+    "kind": "交易背景",
+    "reason": "远程交易的区域跨度说明结算需求，不表示金融工具沿单一路线演化。"
+  },
+  {
+    "chainId": "u2_sub_diaspora",
+    "step": 0,
+    "routeId": "indian_ocean",
+    "kind": "交流背景",
+    "reason": "季节航行与港口社群提供持续文化接触的环境。"
+  },
+  {
+    "chainId": "u2_sub_diaspora",
+    "step": 1,
+    "routeId": "indian_ocean",
+    "kind": "交流背景",
+    "reason": "季节航行与港口社群提供持续文化接触的环境。"
+  },
+  {
+    "chainId": "u2_sub_diaspora",
+    "step": 2,
+    "routeId": "indian_ocean",
+    "kind": "交流背景",
+    "reason": "季节航行与港口社群提供持续文化接触的环境。"
+  },
+  {
+    "chainId": "u2_sub_diaspora",
+    "step": 3,
+    "routeId": "indian_ocean",
+    "kind": "交流背景",
+    "reason": "季节航行与港口社群提供持续文化接触的环境。"
+  },
+  {
+    "chainId": "u2_sub_mongol",
+    "step": 3,
+    "routeId": "silk_road",
+    "kind": "治理与交通",
+    "reason": "蒙古部分统治地区的资源组织和驿传支持陆路联系，战争也可能破坏交换。"
   }
 ]

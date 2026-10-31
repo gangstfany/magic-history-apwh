@@ -25,7 +25,7 @@ jobs:
         with:
           python-version: '3.x'
       - run: python3 scripts/build-site.py
-      - run: node --test src/apwh/test-*.cjs tests/*.test.mjs
+      - run: node --test src/apwh/test-*.cjs tests/*.test.mjs src/workspace/*/*.test.cjs
       - run: python3 -m unittest discover -s src/apwh -p 'test_*.py'
       - run: node src/apwh/verify-content.cjs
       - uses: actions/configure-pages@v5

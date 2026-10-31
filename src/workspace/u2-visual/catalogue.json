@@ -1,0 +1,236 @@
+{
+  "images": {
+    "ship": {
+      "file": "assets/ship.jpg",
+      "title": "航船、船员与商人",
+      "date": "13th century",
+      "caption": "Maqamat al-Hariri 手稿中的航行场景。",
+      "limit": "文学手稿插图，用于观察船舶与船上活动；不是 Kilwa 或 Malacca 某次航行的现场记录。",
+      "credit": "13th century artist",
+      "source": "https://commons.wikimedia.org/wiki/File:Maqamat_5847,_f.119v-_maqama_39_Abu_Zayd_and_al-Harith_sailing.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "hormuz": {
+      "file": "assets/hormuz.jpg",
+      "title": "港口中的货物与转运",
+      "date": "c. 1410–1412",
+      "caption": "Livre des Merveilles 中抵达 Hormuz 的场景。",
+      "limit": "欧洲画家对 Marco Polo 旅程的后世描绘；用于观察陆海转运的图像表达，不是 Kilwa 或 Malacca 的写生。",
+      "credit": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Marco_Polo_arriving_at_Hormuz.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "malacca-coin": {
+      "file": "assets/malacca-coin.jpg",
+      "title": "Malacca Sultanate 锡币",
+      "date": "15th century",
+      "caption": "港口商业社会使用的钱币实物。",
+      "limit": "钱币用于认识货币与政治权威，不能单凭本图证明关税税率、税收用途或海军规模。",
+      "credit": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Malacca_sultanate_tin_money_15th_century.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "plague": {
+      "file": "assets/plague.jpg",
+      "title": "Tournai 的瘟疫安葬",
+      "date": "14th century · 1349 疫情",
+      "caption": "编年史中的集体安葬场景。",
+      "limit": "Chronicles of Gilles Li Muisis，KBR MS 13076–77, f.24v；表现 Tournai 的疫情，不是 Cairo 或 Samarkand 的现场记录。",
+      "credit": "Unknown authorUnknown author",
+      "source": "https://commons.wikimedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "mongol-travel": {
+      "file": "assets/mongol-travel.jpg",
+      "title": "蒙古统治者与随行人员",
+      "date": "early 14th century",
+      "caption": "Rashid al-Din 史书插图中的出行队伍。",
+      "limit": "Diez Album，Tabriz(?)；人物前方可能携带 paiza。用于认识统治者出行与官方交通，不是一次已确定的征服或征税现场。",
+      "credit": "unknown / (of the reproduction) Staatsbibliothek Berlin/Schacht",
+      "source": "https://commons.wikimedia.org/wiki/File:DiezAlbumsTravelling.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    "paiza": {
+      "file": "assets/paiza.jpg",
+      "title": "官方通行凭证 paiza",
+      "date": "late 13th century",
+      "caption": "Yuan 时期铁质镶银通行牌。",
+      "limit": "The Met 1993.256。实物反映统治权威和通行凭证；不能证明所有商人都享有同样待遇。",
+      "credit": "The Metropolitan Museum of Art",
+      "source": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_(Paiza)_with_Inscription_in_Phakpa_Script_MET_DT7051.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "banking": {
+      "file": "assets/banking.jpg",
+      "title": "钱桌上的硬币与账本",
+      "date": "1412–1413",
+      "caption": "Pietro di Miniato 祭坛画中的钱桌场景。",
+      "limit": "San Matteo polyptych 的宗教叙事画，图中可见钱币与账本；用于观察同时期的金钱管理形象，不是 flying cash 或汇票的原件，也不是银行交易实录。",
+      "credit": "Sailko",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_di_miniato,_polittico_con_incoronazione_della_vergine,_1412-13,_da_s.matteo_a_prato_06.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "rice-field-work": {
+      "file": "assets/rice-field-work.jpg",
+      "title": "稻田中的耘作与劳动",
+      "date": "mid–late 13th century",
+      "caption": "Illustrations of Tilling 中的稻田耘作。",
+      "limit": "传 Cheng Qi，after Lou Shou，Smithsonian F1954.21。展现中国稻作活动，不是 Champa rice 品种鉴定图，也不单独证明复种或产量增长。",
+      "credit": "传程棨 · 13世纪中晚期 · Smithsonian National Museum of Asian Art, F1954.21",
+      "source": "https://asia-archive.si.edu/object/F1954.21/",
+      "license": "Smithsonian 使用条款",
+      "licenseUrl": "https://www.si.edu/termsofuse"
+    },
+    "bill-1410": {
+      "file": "assets/bill-1410.jpeg",
+      "title": "从 Montpellier 到 Barcelona 的汇票",
+      "date": "5 February 1410",
+      "caption": "Datini 商号相关的支付与背书文书。",
+      "limit": "Archivio di Stato di Prato, Datini, busta 1145/2, cod.1403471。是欧洲 bills of exchange 的原件图，不是中国 flying cash。仅用于本地教学预览；来源未明确授予开放再发布许可。",
+      "credit": "Archivio di Stato di Prato / Paper in Motion；策展说明 Chiara Marcheschi",
+      "source": "https://www.paperinmotion.org/paper/bill-of-exchange-with-endorsement-on-security-from-antonio-di-neve-in-montpellier-to-francesco-di-marco-datini-and-his-partners-in-barcelona/",
+      "license": "本地教学预览 · 馆藏图像使用条件",
+      "licenseUrl": "https://www.paperinmotion.org/"
+    },
+    "labor-statute": {
+      "file": "assets/labor-statute.webp",
+      "title": "Statute of Labourers",
+      "date": "1351",
+      "caption": "Black Death 后 England 限制工资与劳动流动的法令。",
+      "limit": "The National Archives, C74/1。法令说明统治者对劳动力紧缺与工资压力的回应，不等于法令处处有效，也不代表全欧洲的结果。",
+      "credit": "The National Archives, C74/1",
+      "source": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/plague/",
+      "license": "本地教学预览 · TNA 图像使用条件",
+      "licenseUrl": "https://www.nationalarchives.gov.uk/legal/copyright/image-reproduction/"
+    }
+  },
+  "bindings": {
+    "u2_main": [
+      {
+        "image": "ship",
+        "purpose": "观察船上帆具、船员和商人，理解季节性航行的具体载体。"
+      },
+      {
+        "image": "ship",
+        "purpose": "观察船体与舱中人员，理解船舶如何承载跨海往来。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "以图像中的货物与商旅认识跨区域商品流动。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "观察陆地驮运与水上船只同时出现的转运场景。"
+      },
+      {
+        "image": "malacca-coin",
+        "purpose": "用 Malacca 钱币实物认识商业结算与政治权威；关税机制读右栏。"
+      },
+      {
+        "image": "ship",
+        "purpose": "船舶是海上活动的物质载体；本图不冒充 Malacca 海军或打击 piracy 的现场。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "转运图提示商人需要港口与接续服务；保护成效须看右侧证据。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "回到船、货物与商人，理解下一轮货流所需的实际活动。"
+      }
+    ],
+    "u2_sub_plague": [
+      {
+        "image": "mongol-travel",
+        "purpose": "出行人员反映跨地区接触的场景；不据此判断这批人携带鼠疫。"
+      },
+      {
+        "image": "plague",
+        "purpose": "集体安葬直接呈现疫情造成的人口损失。"
+      },
+      {
+        "image": "labor-statute",
+        "purpose": "法令直接体现瘟疫后工资与劳动流动引发的制度回应。"
+      }
+    ],
+    "u2_sub_credit": [
+      {
+        "image": "banking",
+        "purpose": "钱币与账本提示随身携款和记账的负担。"
+      },
+      {
+        "image": "banking",
+        "purpose": "用钱桌场景对照减少实物携款的需求；不是 flying cash 凭证。"
+      },
+      {
+        "image": "bill-1410",
+        "purpose": "用 1410 年真实汇票观察跨城市支付承诺与背书，区别于飞钱和通用纸币。"
+      },
+      {
+        "image": "bill-1410",
+        "purpose": "同一支付文书的承兑与背书提示：兑现要依赖参与者与结算安排。"
+      }
+    ],
+    "u2_sub_diaspora": [
+      {
+        "image": "ship",
+        "purpose": "船上商人是季风航行与港口停留的参与者。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "货物转运与商人接触提供重复交往的具体场景。"
+      },
+      {
+        "image": "ship",
+        "purpose": "商人流动是社群形成的条件之一；本图不能证明任何特定人物定居或通婚。"
+      },
+      {
+        "image": "hormuz",
+        "purpose": "跨地区接触为交流提供场景；画中人物不能直接证明 Swahili 语言或 Islam 的传播。"
+      }
+    ],
+    "u2_sub_environment": [
+      {
+        "image": "rice-field-work",
+        "purpose": "认识新品种传入后的稻作生产环境；不凭图辨认 Champa rice。"
+      },
+      {
+        "image": "rice-field-work",
+        "purpose": "观察田间管理的劳动投入，理解新品种仍需要具体耕作安排。"
+      },
+      {
+        "image": "rice-field-work",
+        "purpose": "画中劳动反映作物特性之外的生产投入；不把画面当产量统计。"
+      },
+      {
+        "image": "rice-field-work",
+        "purpose": "以生产活动理解粮食供给的基础，人口与城镇影响读右栏。"
+      }
+    ],
+    "u2_sub_mongol": [
+      {
+        "image": "mongol-travel",
+        "purpose": "统治者与随从提醒征服后还需要人员组织和交通。"
+      },
+      {
+        "image": "mongol-travel",
+        "purpose": "观察随行人员分工；不凭衣着断定所有人的族群或具体官职。"
+      },
+      {
+        "image": "paiza",
+        "purpose": "通行凭证体现统治权威，帮助把抽象行政机制联系到实物。"
+      },
+      {
+        "image": "paiza",
+        "purpose": "官方凭证把通信、通行与统治权威联系起来；驿传经费机制读右栏。"
+      }
+    ]
+  }
+}

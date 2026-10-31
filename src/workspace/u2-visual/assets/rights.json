@@ -1,0 +1,601 @@
+{
+  "ship": {
+    "file": "ship.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Maqamat_5847,_f.119v-_maqama_39_Abu_Zayd_and_al-Harith_sailing.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Maqamat_5847%2C_f.119v-_maqama_39_Abu_Zayd_and_al-Harith_sailing.jpg/1280px-Maqamat_5847%2C_f.119v-_maqama_39_Abu_Zayd_and_al-Harith_sailing.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-01-17 19:44:14",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Maqamat 5847, f.119v- maqama 39 Abu Zayd and al-Harith sailing",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Ships in art|Maqamat of al-Hariri - BNF Arabe5847|PD-old-100-expired|PD-Art (PD-old-100-expired)|CC-PD-Mark|Sewn boats|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Dhows in art",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Maqamat 5847, f.119v- maqama 39 Abu Zayd and al-Harith sailing.\n<p><br>\nSome aspects of the image which can be certain:\nthe stitching which can be seen joining the planks; the stern-rudder; the grapnel anchor; the sailors bailing out water; the look-out boy (didban); the merchants in theii cabin\n</p>\n(Arab Sailing, p.99)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-01-17",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.pure.ed.ac.uk/ws/portalfiles/portal/13458099/Gearoge_2011_The_illustrations_of_the_Maqamat_and_the_shadow_play.pdf\">[1]</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "13th century artist",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 442642
+  },
+  "hormuz": {
+    "file": "hormuz.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marco_Polo_arriving_at_Hormuz.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Marco_Polo_arriving_at_Hormuz.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-11-24 01:09:26",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Marco Polo arriving at Hormuz",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Découvertes Gallimard|PD-old-70-expired|Derivative versions|Template Unknown (author)|CC-PD-Mark|Le Livre de Marco Polo, ms. BnF fr. 2810|PD-old missing SDC copyright status|Marco Polo in miniatures|Miniatures of elephants|History of Hormuz|Elephants in 15th-century art",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Detail of a miniature depicting Marco Polo with elephants and camels arriving at Hormuz on the Gulf of Persia from India, from the <i>Livre des Merveilles du Monde</i>, c.1410-12 (vellum), featured on the cover of the book <i>Marco Polo et la Route de la Soie</i> by Jean-Pierre Drège, \"<a href=\"https://en.wikipedia.org/wiki/D%C3%A9couvertes_Gallimard\" class=\"extiw\" title=\"w:Découvertes Gallimard\">Découvertes Gallimard</a>\" collection (nº 53), Paris: Éditions Gallimard, 1989.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between circa 1410 and circa 1412<div style=\"display: none;\">date QS:P,+1410-00-00T00:00:00Z/8,P1319,+1410-00-00T00:00:00Z/9,P1326,+1412-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Marco_Polo_with_elephants_and_camels_arriving_at_Hormuz_on_the_Gulf_of_Persia_from_India.jpeg\" title=\"File:Marco Polo with elephants and camels arriving at Hormuz on the Gulf of Persia from India.jpeg\">Marco Polo with elephants and camels arriving at Hormuz on the Gulf of Persia from India.jpeg</a><br>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 248605
+  },
+  "malacca-coin": {
+    "file": "malacca-coin.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Malacca_sultanate_tin_money_15th_century.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Malacca_sultanate_tin_money_15th_century.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-12-18 10:28:37",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Malacca sultanate tin money 15th century",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Template Unknown (author)|Coins of the Malacca Sultanate",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Symbol of 2 crossed keris with a star",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2021-12-18",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://buygoldcoinonline1.blogspot.com/2009/09/melaka-coinage-malacca-sultanate-tin.html\">http://buygoldcoinonline1.blogspot.com/2009/09/melaka-coinage-malacca-sultanate-tin.html</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 25170
+  },
+  "plague": {
+    "file": "plague.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Burying_Plague_Victims_of_Tournai.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2012-01-23 15:25:24",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Burying Plague Victims of Tournai",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Plague|Superseded|Author died more than 100 years ago public domain images|History of Tournai|Template Unknown (author)|CC-PD-Mark|Disease in medieval miniature|PD-old missing SDC copyright status|Tractatus quartus - KBR ms 13076-13077",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The burial of the victims of the plague in Tournai. Detail of a miniature from \"The Chronicles of Gilles Li Muisis\" (1272-1352), abbot of the monastery of St. Martin of the Righteous. Bibliothèque royale de Belgique, MS 13076-77, f. 24v.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "14<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1350-00-00T00:00:00Z/7</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://supotnitskiy.ru/stat/stat8.htm\">http://supotnitskiy.ru/stat/stat8.htm</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 75297
+  },
+  "mongol-travel": {
+    "file": "mongol-travel.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:DiezAlbumsTravelling.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/DiezAlbumsTravelling.jpg/1280px-DiezAlbumsTravelling.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2008-06-05 16:14:05",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "DiezAlbumsTravelling",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images with annotations|PD Old auto: no death date|PD-Art (PD-old-auto-expired)|PD US expired|Cavalry in art|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|PD-US missing SDC copyright status|Rashid-ad-Din illustrations from the Diez Albums|Paiza of the Mongol Empire",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Ruler on his way through the country. Illustration of Rashid-ad-Din's Gami' at-tawarih. Tabriz (?), 1st quarter of 14th century. Water colours on paper. Original size: 22 cm x 26.2 cm. Staatsbibliothek Berlin, Orientabteilung, Diez A fol. 71, p. 50. The pedestrian in front seems to carry a <i>paiza</i>, a sign that identifies persons on official duty.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "14<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1350-00-00T00:00:00Z/7</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<i>Dschingis Khan und seine Erben</i> (exhibition catalogue), München 2005, p. 269",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "unknown / (of the reproduction) Staatsbibliothek Berlin/Schacht",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 721801
+  },
+  "paiza": {
+    "file": "paiza.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_(Paiza)_with_Inscription_in_Phakpa_Script_MET_DT7051.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_%28Paiza%29_with_Inscription_in_Phakpa_Script_MET_DT7051.jpg/1280px-%E5%85%AB%E6%80%9D%E5%B7%B4%E6%96%87%E9%90%A1%E7%89%8C-Safe_Conduct_Pass_%28Paiza%29_with_Inscription_in_Phakpa_Script_MET_DT7051.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-05-11 15:35:21",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\n八思巴文鐡牌</div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Files with no machine-readable author|Artworks without Wikidata item|Department of Asian Art, Metropolitan Museum of Art|Artworks with known accession number|Images from Metropolitan Museum of Art|GWToolset Batch Upload|Paiza of the Yuan Dynasty|Paiza with Phagspa inscription",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\nChina; Pass; Metalwork</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "late 13th century",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "bytes": 356853
+  },
+  "banking": {
+    "file": "banking.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pietro_di_miniato,_polittico_con_incoronazione_della_vergine,_1412-13,_da_s.matteo_a_prato_06.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Pietro_di_miniato%2C_polittico_con_incoronazione_della_vergine%2C_1412-13%2C_da_s.matteo_a_prato_06.jpg/1280px-Pietro_di_miniato%2C_polittico_con_incoronazione_della_vergine%2C_1412-13%2C_da_s.matteo_a_prato_06.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-09-24 09:59:17",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pietro di miniato, polittico con incoronazione della vergine, 1412-13, da s.matteo a prato 06",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images from Wiki Loves Monuments 2018|Self-published work|Photographs by User:Sailko|Images from Wiki Loves Monuments 2018 in Italy|Images from Wiki Loves Monuments 2018 in Italy - Tuscany|Cultural heritage monuments in Italy with known IDs|All media supported by Wikimedia CH|Uploaded via Campaign:wlm-it|Italy photographs taken on 2013-10-13|Images by Sailko - Supported by Wikimedia CH|Photographs of paintings by User:Sailko|San Matteo Polyptych by Pietro di Miniato",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "43.880533",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "11.096525",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Museo civico (Prato)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2013-10-13 10:14:19",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-sa-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "rice-field-work": {
+    "creatorOrInstitution": "传程棨 · 13世纪中晚期 · Smithsonian National Museum of Asian Art, F1954.21",
+    "sourcePageUrl": "https://asia-archive.si.edu/object/F1954.21/",
+    "originalFileUrl": "https://ids.si.edu/ids/deliveryService?id=FS-8012_16&max=1600",
+    "licenseName": "Smithsonian 使用条款",
+    "licenseUrl": "https://www.si.edu/termsofuse",
+    "releaseClass": "local-educational-prototype",
+    "derivativeNote": "Museum-provided JPEG, unchanged. Source manifest marks Usage conditions apply; do not treat as an unrestricted CC0 release."
+  },
+  "bill-1410": {
+    "file": "assets/bill-1410.jpeg",
+    "title": "从 Montpellier 到 Barcelona 的汇票",
+    "date": "5 February 1410",
+    "caption": "Datini 商号相关的支付与背书文书。",
+    "limit": "Archivio di Stato di Prato, Datini, busta 1145/2, cod.1403471。是欧洲 bills of exchange 的原件图，不是中国 flying cash。仅用于本地教学预览；来源未明确授予开放再发布许可。",
+    "credit": "Archivio di Stato di Prato / Paper in Motion；策展说明 Chiara Marcheschi",
+    "source": "https://www.paperinmotion.org/paper/bill-of-exchange-with-endorsement-on-security-from-antonio-di-neve-in-montpellier-to-francesco-di-marco-datini-and-his-partners-in-barcelona/",
+    "license": "本地教学预览 · 馆藏图像使用条件",
+    "licenseUrl": "https://www.paperinmotion.org/",
+    "releaseClass": "local-educational-prototype",
+    "derivativeNote": "Original institution-provided reproduction retained; no crop or editing."
+  },
+  "labor-statute": {
+    "file": "assets/labor-statute.webp",
+    "title": "Statute of Labourers",
+    "date": "1351",
+    "caption": "Black Death 后 England 限制工资与劳动流动的法令。",
+    "limit": "The National Archives, C74/1。法令说明统治者对劳动力紧缺与工资压力的回应，不等于法令处处有效，也不代表全欧洲的结果。",
+    "credit": "The National Archives, C74/1",
+    "source": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/early-modern/plague/",
+    "license": "本地教学预览 · TNA 图像使用条件",
+    "licenseUrl": "https://www.nationalarchives.gov.uk/legal/copyright/image-reproduction/",
+    "releaseClass": "local-educational-prototype",
+    "derivativeNote": "Original institution-provided reproduction retained; no crop or editing."
+  }
+}
